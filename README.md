@@ -1,0 +1,3 @@
+# Vanilla Javascript Projects
+
+Playing with canvas, sprites, game dev ...
